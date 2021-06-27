@@ -1,0 +1,22 @@
+{
+  "name": "js-samples",
+  "version": "1.0.0",
+  "engines": {
+    "node": "v14.17.1"
+  },
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filserm/js-samples.git"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filserm/js-samples/issues"
+  },
+  "homepage": "https://github.com/filserm/js-samples#readme"
+}
